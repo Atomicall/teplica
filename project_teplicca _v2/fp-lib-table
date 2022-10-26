@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "megasaturnv_custom_components")(type "KiCad")(uri "${KIPRJMOD}/lib/kicad-custom-components-library-master/megasaturnv_custom_components.pretty")(options "")(descr ""))
+  (lib (name "ESP8266")(type "KiCad")(uri "${KIPRJMOD}/lib/kicad-ESP8266-master/ESP8266.pretty")(options "")(descr ""))
+  (lib (name "project_teplicca-backups")(type "KiCad")(uri "${KIPRJMOD}/project_teplicca-backups.pretty")(options "")(descr ""))
+)

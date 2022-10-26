@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "circle_encoder_from_ali")(type "KiCad")(uri "${KIPRJMOD}/circle_encoder_from_ali.kicad_sym")(options "")(descr ""))
+  (lib (name "megasaturnv_custom_components")(type "Legacy")(uri "${KIPRJMOD}/lib/kicad-custom-components-library-master/megasaturnv_custom_components.lib")(options "")(descr ""))
+  (lib (name "ESP8266")(type "Legacy")(uri "${KIPRJMOD}/lib/kicad-ESP8266-master/ESP8266.lib")(options "")(descr ""))
+  (lib (name "usb_type_c_female_board_Aliexpress")(type "Legacy")(uri "D:/Proj/PCBs/res/Usb_boards/usb_type_c_female_board_Aliexpress/usb_type_c_female_board_Aliexpress.lib")(options "")(descr ""))
+)
